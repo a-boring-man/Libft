@@ -4,4 +4,4 @@
 
 The first 42 Project.
 
-The goal is to rewrite some basic C standard library function such as strjoin or substr but also create some of our own like a split or some linked list function.
+The goal is to create a custom C library that includes both rewritten and new functions, such as <em>strjoin<em>, substr, split, and linked list functions.
