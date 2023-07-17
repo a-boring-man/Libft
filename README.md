@@ -4,4 +4,4 @@
 
 The first 42 Project.
 
-The goal is to create a custom C library that includes both rewritten and new functions, such as ```strjoin```, substr, split, and linked list functions.
+The goal is to create a custom C library that includes both rewritten and new functions, such as ```strjoin```, ```substr```, ```split```, and linked list functions.
