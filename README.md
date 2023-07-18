@@ -6,4 +6,4 @@ The first project at 42 school is to create a custom C library that includes bot
 
 ## Bonus
 
-The bonus consisted of basics linked list function.
+The bonus was the implementation of basics linked list function.
