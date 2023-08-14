@@ -7,3 +7,7 @@ The first project at 42 school is to create a custom C library that includes bot
 ## Bonus
 
 The bonus was the implementation of basics linked list function.
+
+## Usage
+
+simply do ```make``` while in the root of the project and it should create a .a file that you can then use as you wish
